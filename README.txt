@@ -1,0 +1,1 @@
+This is a great class that makes a whole lot of sense
